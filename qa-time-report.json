@@ -1,0 +1,240 @@
+{
+  "date" : "Thu, 24 Aug, 2023 05:34:48 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-fhir.who.smart-base.json",
+      "size" : 2066,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 51,
+          "length" : 471
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 59,
+          "length" : 4
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 59,
+          "length" : 522
+        },
+        {
+          "activity" : "validate",
+          "start" : 73,
+          "length" : 857
+        },
+        {
+          "activity" : "generate1",
+          "start" : 74,
+          "length" : 121
+        },
+        {
+          "activity" : "generate2",
+          "start" : 77,
+          "length" : 184
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 96,
+          "length" : 3
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-SGLogicalModel.json",
+      "size" : 6963,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 487
+        },
+        {
+          "activity" : "loadDepInfo",
+          "start" : 50,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 547
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 51,
+          "length" : 5182
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 60,
+          "length" : 5078
+        },
+        {
+          "activity" : "validate",
+          "start" : 68,
+          "length" : 3606
+        },
+        {
+          "activity" : "checkConformanceResources",
+          "start" : 74,
+          "length" : 1
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 74,
+          "length" : 4
+        },
+        {
+          "activity" : "generate1",
+          "start" : 74,
+          "length" : 1005
+        },
+        {
+          "activity" : "generate2",
+          "start" : 77,
+          "length" : 6584
+        },
+        {
+          "activity" : "makeDependencies",
+          "start" : 91,
+          "length" : 1
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 96,
+          "length" : 74
+        },
+        {
+          "activity" : "scanProfilesForR5",
+          "start" : 105,
+          "length" : 1
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 105,
+          "length" : 4
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-SMARTImplementationGuide.json",
+      "size" : 1165,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 23
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 25
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 56,
+          "length" : 2207
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 65,
+          "length" : 2138
+        },
+        {
+          "activity" : "validate",
+          "start" : 72,
+          "length" : 849
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 74,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 75,
+          "length" : 417
+        },
+        {
+          "activity" : "generate2",
+          "start" : 84,
+          "length" : 1847
+        },
+        {
+          "activity" : "generateExampleZip",
+          "start" : 95,
+          "length" : 1
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 96,
+          "length" : 50
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 105,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-IMMZ-C-RegisterClient.json",
+      "size" : 10247,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 49,
+          "length" : 355
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 50,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 50,
+          "length" : 361
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 59,
+          "length" : 816
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 67,
+          "length" : 797
+        },
+        {
+          "activity" : "validate",
+          "start" : 72,
+          "length" : 508
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 74,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 76,
+          "length" : 74
+        },
+        {
+          "activity" : "generate2",
+          "start" : 86,
+          "length" : 401
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 96,
+          "length" : 8
+        }
+      ]
+    }
+  ]
+}
